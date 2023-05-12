@@ -1,0 +1,52 @@
+1.What is jQuery?
+        i.The purpose of jQuery is to make it much easier to use JavaScript on your website.
+       ii.The JavaScript Library That Will Prevent Our Fingers From Breaking
+      iii.Short & Sweet
+
+
+$("button").click(function(){
+$("h1").css("color","red");
+});   
+
+
+    i.It is a library a bunch of code somebody else wrote
+    ii.You can encroprate your owncode 
+    iii.Use Improve your Projects Make Simple And Easyer
+
+
+JavaScript:-
+     document.querySelector("h1");
+
+jQuery:-
+     jQuery("h1");    or   $("h1");
+
+
+
+
+
+
+
+2.How to Incorporate jQuery into Website:-
+     i.   https://jquery.com/
+     ii.  Download or CDN
+     iii. Popular CDN -- Google CDN
+          --> Use Popular CDN That means browser already download 
+          --> So Browser  Browse Your Website Much Faster Load Rates
+     iv.  Go to Downloads
+      V.  Google CDN  --> Copy   Eg:  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+
+
+Browser Read Top to Bottom :-
+        Before Body Tag </body>  
+        1.JQuery CDN
+        2.JavaScript File Link
+
+
+
+$(document).ready(function(){
+$("h1").css("color","red");
+});
+
+
+
+      

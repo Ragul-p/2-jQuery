@@ -1,0 +1,11 @@
+1. Single Parameter (get):-
+
+      > $("h1").css("color");
+      > $("h1").css("font-size");
+
+
+2.Double Parameter (set):-
+
+      > $("h1").css("color","red");
+      > $("h1").css("font-size","32px");
+

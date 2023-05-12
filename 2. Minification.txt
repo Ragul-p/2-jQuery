@@ -1,0 +1,17 @@
+https://www.minifier.org/
+
+    1.copy & paste your js code 
+    2.select JS
+    3.Minify
+
+
+original Script file Size --> 1539b
+Minified Script file Size --> 1113b
+gain                      -->  426b
+
+
+Browser Load Faster --> To use minified
+
+jQuery.js
+JQuery.min.js
+ 

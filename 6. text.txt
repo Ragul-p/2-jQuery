@@ -1,0 +1,8 @@
+1.text():-
+$("h1").text("Bye");
+$("button").text("Don't Click Me");
+
+
+
+2.html():-
+$("h1").html("<em>Hey</em>");

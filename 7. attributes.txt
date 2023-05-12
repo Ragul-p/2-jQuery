@@ -1,0 +1,7 @@
+1.Get Attributes:-
+$("img").attr("src");
+
+
+2.Set Attributes:-
+$("a").attr("href","https://www.google.com");
+

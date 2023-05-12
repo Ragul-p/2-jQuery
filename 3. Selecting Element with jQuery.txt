@@ -1,0 +1,7 @@
+1.Single :-
+    Javascript --> document.querySelector("h1");
+    jQuery     --> $("h1");
+
+2.Many :-
+    Javascript  --> document.querySelectorAll("button");
+     jQuery     --> $("buton"); 

@@ -1,0 +1,14 @@
+1.addClass:-
+$("h1").addClass("big-title");
+
+
+2.removeClass:-
+$("h1").removeClass("big-title");
+
+
+3.add 2 More Class:-
+$("h1").addClass("big-title margin-50");
+
+
+4.contain class:-
+$("h1").hasClass("big-title");  //true
